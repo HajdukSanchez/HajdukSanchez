@@ -4,8 +4,7 @@
 - I’m currently learning new technologies for backend and mobile development like Golang and Flutter.
 - Actually im working on projects with Flutter 🤙.
 
-## Here is my current working Profile, to see my continuous technological contribution 🧑‍💻
-- [Actual Work profile](https://github.com/jahajduk-lealco)
+*I have been working on an enterprise account with private information, so this is why probably my profile is with less activity nowadays...
 
 ### Connect with me 🔗
 
