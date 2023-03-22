@@ -19,12 +19,8 @@
 <img align="left" alt="Golang" width="26px" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/golang_official_logo_icon_169092.png" />
 <img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
 <img align="left" alt="Angular" width="26px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" />
-<img align="left" alt="TypeScript" width="26px" src="https://cdn.iconscout.com/icon/free/png-128/typescript-3521774-2945272.png" />
-<img align="left" alt="Sass" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/2560px-Sass_Logo_Color.svg.png" />
 <img align="left" alt="Graph QL" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/2048px-GraphQL_Logo.svg.png" />
-<img align="left" alt="Redux" width="26px" src="https://bendyworks.com/assets/images/blog/2020-05-04-ionic-react-and-redux-74ed1080.png" />
 <img align="left" alt="Java" width="26px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />
-<img align="left" alt="Styled-components" width="26px" src="https://www.styled-components.com/atom.png" />
 
 <br>
 <br>
